@@ -30,36 +30,12 @@ export const info = {
     ],
     bio:"Hello! I'm Dieudonne. I believe digital presence can change things. I'am a good Web developer, Web designer and web content creator.    You should hire me! ",
     hobbies:[
-        ['💼', 'Junior web Developer in Mern-Stack'],
+        ['💼', 'Junior web Developer in MERN-Stack'],
         ['📚', 'highly motivated and fast leaner'],
         ['🤝', 'Good collaboration'],
         ['📩', 'I here for you!']
     ],
-    portfolio:[
-        {
-            title: "project 1",
-            liveLink:'https://paytonjewell.dev',
-            sourceLink:"https://paytonjewell.dev",
-        },
-        {
-            title: "project 2",
-            liveLink:'https://paytonjewell.dev',
-            sourceLink:"https://paytonjewell.dev",
-        
-        },
-        {
-            title: "project 3",
-            liveLink:'https://paytonjewell.dev',
-            sourceLink:"https://paytonjewell.dev",
-        
-        },
-        {
-            title: "project 4",
-            liveLink:'https://paytonjewell.dev',
-            sourceLink:"https://paytonjewell.dev",
-        
-        }
-    ]
+  
 }
 
 // social links
