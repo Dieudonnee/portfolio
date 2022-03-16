@@ -1,7 +1,7 @@
 import React from 'react'
 import {NavLink} from "react-router-dom"
 import Style from './Navbar.module.scss'
-import Toggler from "./Toggler"
+
 import ClassNames from "classnames";
 import {info} from "../Info/info";
 
