@@ -7,13 +7,14 @@
     justify-items: center;
     align-items: center;
     border-bottom: 1px solid #e4e4e4;
-    text-transform: capitalize;
+    text-transform: lowercase;
     margin: 0 auto;
-    font-size: 1rem;    
+    font-size: 0.9rem;    
     
      
     @media only screen and (min-width:940px){
         max-width: 60%;
+        text-transform: capitalize;
     }
     img {
         height: 60px;
@@ -68,8 +69,8 @@
   }
   @media only screen and (max-width:1202px){
       padding: 3px 10px;
-      text-transform: capitalize;
-      font-size: 1rem;
+      text-transform: lowercase;
+      font-size: 0.9rem;
       padding: 5px;
 
   }
