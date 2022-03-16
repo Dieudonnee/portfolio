@@ -1,7 +1,6 @@
 
 import './App.css';
 import Home from './components/Home'
-import classNames from "classnames"
 import Navbar from "./components/Navbar"
 import Style from "./App.module.scss"
 
