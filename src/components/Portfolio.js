@@ -17,10 +17,10 @@ export default function Portfolio() {
       <div className={ClassNames(Style.left)}>
       <img src={img1} alt=""/>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="gql-cms-blog.vercel.app">Live Demo</a>
+      <a href="gql-cms-blog.vercel.app">Live Demo</a>
       </button>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://github.com/Dieudonnee/gql_cms_blog">Source code</a>
+      <a href="https://github.com/Dieudonnee/gql_cms_blog">Source code</a>
       </button>
 
       </div>
@@ -36,10 +36,10 @@ export default function Portfolio() {
       <div className={ClassNames(Style.left)}>
       <img src={img2} alt=""/>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Live Demo</a>
+      <a href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Live Demo</a>
       </button>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Source code</a>
+      <a href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Source code</a>
       </button>
 
       </div>
@@ -56,10 +56,10 @@ export default function Portfolio() {
       <div className={ClassNames(Style.left)}>
       <img src={img3} alt=""/>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Live Demo</a>
+      <a href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Live Demo</a>
       </button>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Source Code</a>
+      <a href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Source Code</a>
       </button>
 
       </div>
@@ -76,10 +76,10 @@ export default function Portfolio() {
       <div className={ClassNames(Style.left)}>
       <img src={img4} alt=""/>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://budgetapp-nologin-3dpab42dg-dieudonnee.vercel.app/">Live Demo</a>
+      <a href="https://budgetapp-nologin-3dpab42dg-dieudonnee.vercel.app/">Live Demo</a>
       </button>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://github.com/Dieudonnee/Budgetappnologin">Source Code</a>
+      <a href="https://github.com/Dieudonnee/Budgetappnologin">Source Code</a>
       </button>
 
       </div>
@@ -95,10 +95,10 @@ export default function Portfolio() {
       <div className={ClassNames(Style.left)}>
       <img src={img4} alt=""/>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://single-page-hdn4tqizs-dieudonnee.vercel.app/">Live Demo</a>
+      <a href="https://single-page-hdn4tqizs-dieudonnee.vercel.app/">Live Demo</a>
       </button>
       <button className={ClassNames(Style.button)}>
-      <a target="_blank" href="https://github.com/Dieudonnee/single-page">Source Code</a>
+      <a href="https://github.com/Dieudonnee/single-page">Source Code</a>
       </button>
 
       </div>
