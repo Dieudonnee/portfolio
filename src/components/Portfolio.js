@@ -91,25 +91,6 @@ export default function Portfolio() {
       </div>
     
     </div>
-    <div className={ClassNames(Style.card)}>
-      <div className={ClassNames(Style.left)}>
-      <img src={img4} alt=""/>
-      <button className={ClassNames(Style.button)}>
-      <a href="https://single-page-hdn4tqizs-dieudonnee.vercel.app/">Live Demo</a>
-      </button>
-      <button className={ClassNames(Style.button)}>
-      <a href="https://github.com/Dieudonnee/single-page">Source Code</a>
-      </button>
-
-      </div>
-      <div className={ClassNames(Style.right)}>
-          <h3>landing page</h3>
-          <p>article-title Shift the overall look and feel by adding these wonderful
-          touches to furniture in your home</p>
-          <button>tools</button>
-          <button>language</button>
-          <button>framwork</button>
-      </div>
     
     </div>
     </div>
